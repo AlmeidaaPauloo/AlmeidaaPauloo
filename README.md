@@ -3,7 +3,8 @@
 
 
 
-- 🌱 I’m currently learning of dotNET framework  | REACT | Database  ...
+##- 🌱 I’m currently learning of dotNET framework  | REACT | Database  
+##-    I'm a systems analysis and development student at the universiy UNINOVE
 
 <div align="center">
   <a href="https://github.com/AlmeidaaPauloo">
