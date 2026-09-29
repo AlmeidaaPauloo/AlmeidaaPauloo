@@ -1,156 +1,38 @@
-<h1 align="center">👋 Hey, I'm Paulo Almeida</h1>
+# Paulo Almeida
 
-<h3 align="center">
-Software Engineering • Cloud Engineering • Backend Development
-</h3>
+**Full-Stack Developer · React, TypeScript, .NET & APIs**
+São Paulo, Brazil · Open to freelance and remote work
 
-<p align="center">
-Building strong foundations to design, deploy and understand modern cloud infrastructure.
-</p>
+I build web applications, REST APIs and websites, usually with React and TypeScript on the front end and C#/ASP.NET Core with SQL Server on the back end.
+I also build websites, web applications and digital tools through [PIVA Solutions](https://github.com/PIVA-Solutions), with a focus on practical solutions for small businesses.
 
----
+## What I build
 
-## 👨‍💻 About Me
+- Web applications with React and TypeScript
+- REST APIs with ASP.NET Core, Entity Framework Core and SQL Server
+- Landing pages and institutional websites
+- Internal tools for small businesses
+- Automations and API integrations
 
-I'm a technology professional from São Paulo, Brazil, building my career toward **Cloud Engineering and Cloud Architecture**.
+## Tech stack
 
-My background includes **technical support and software development**, with experience and studies involving **C#, .NET, SQL, Git and web technologies**.
+**Main:** React · TypeScript · JavaScript · C# · .NET / ASP.NET Core · SQL Server · REST APIs  
+**Also used:** HTML · CSS · Entity Framework Core · JWT · Swagger · Git · GitHub Actions  
+**Studying:** Linux · Networking · Docker · AWS
 
-I'm currently strengthening my foundations in:
+## Featured projects
 
-- 🌐 Computer Networking
-- 🐧 Linux
-- ☁️ Cloud Computing
-- 🧰 Git & GitHub
-- 💻 Backend Development
-- 🏗️ Cloud Architecture
+| Project | Context | Stack |
+|---|---|---|
+| [PIVA Solutions website](https://github.com/PIVA-Solutions/piva-solutions) | Commercial – my company's site ([live](https://pivasolutions.com.br)) | HTML, CSS, GitHub Actions, GitHub Pages |
+| [Planeta Solidário](https://github.com/AlmeidaaPauloo/ProjetoIntegradorGenerationG5) | Team project (8 developers) – Generation Brasil bootcamp. [Original repo](https://github.com/julioconceicao/ProjetoIntegradorGenerationG5) | React, TypeScript, ASP.NET Core, SQL Server, JWT |
+| [CODERURAL API](https://github.com/AlmeidaaPauloo/Desafio_E-RURAL) | Technical challenge from a hiring process | C#, ASP.NET Core 6, EF Core, SQL Server, Swagger |
+| [Blog Pessoal](https://github.com/AlmeidaaPauloo/BlogPessoal) | Study project – Generation Brasil bootcamp. API + [front end](https://github.com/AlmeidaaPauloo/blog-pessoal-frontend) | ASP.NET Core, EF Core, JWT, React, TypeScript |
 
-My goal is not just to learn cloud platforms, but to understand **how networks, operating systems, applications and infrastructure work underneath them**.
+## Cloud journey
 
----
+I'm studying the infrastructure side to deploy and run what I build: networking fundamentals (TCP/IP, DNS, CIDR, subnetting), Linux, Docker and AWS.
 
-## ☁️ Cloud Engineering Journey
+## Connect
 
-```text
-Networking
-    ↓
-Linux
-    ↓
-Git & GitHub
-    ↓
-Programming & Automation
-    ↓
-AWS
-    ↓
-Docker
-    ↓
-CI/CD
-    ↓
-Terraform
-    ↓
-Kubernetes
-    ↓
-Security & Observability
-    ↓
-System Design
-    ↓
-Cloud Architecture
-```
-
----
-
-## 🌐 Networking
-
-I'm currently building a strong networking foundation for Cloud Engineering.
-
-### Topics studied
-
-`IP Addressing` • `Ports` • `DNS` • `TCP/IP` • `TCP & UDP`  
-`HTTP/HTTPS` • `TLS` • `Gateway` • `Subnet Masks` • `CIDR`  
-`IPv4 Subnetting` • `Network Address` • `Broadcast Address` • `OSI Model`
-
-### 🧪 Networking Labs
-
-I'm documenting my studies and hands-on experiments in:
-
-**[cloud-networking-labs](https://github.com/AlmeidaaPauloo/cloud-networking-labs)**
-
----
-
-## 🛠️ Technologies
-
-### Backend & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,powershell" />
-</p>
-
-### Cloud & Infrastructure — Learning Journey
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,linux,docker,terraform,kubernetes,python,bash" />
-</p>
-
-> Cloud and infrastructure technologies shown above are part of my current learning roadmap and do not necessarily represent professional-level proficiency.
-
----
-
-## 🚀 Current Projects
-
-### 🌐 Cloud Networking Labs
-
-Hands-on networking studies focused on building the infrastructure foundation required for Cloud Engineering.
-
-Topics include:
-
-- IPv4 addressing
-- CIDR and subnetting
-- Network and broadcast addresses
-- TCP & UDP
-- DNS
-- Routing
-- NAT
-- Firewalls
-- Cloud networking concepts
-
-More projects will be added as I progress through **Linux, AWS, containers, Infrastructure as Code and Cloud Architecture**.
-
----
-
-## 🎯 Certification Roadmap
-
-Currently working toward a long-term certification path:
-
-- AWS Certified Solutions Architect – Associate
-- HashiCorp Terraform Associate
-- Certified Kubernetes Administrator (CKA)
-- AWS Certified Solutions Architect – Professional
-
----
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AlmeidaaPauloo&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmeidaaPauloo&layout=compact&theme=github_dark"/>
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/almeidaapauloo/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/AlmeidaaPauloo">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Building today what I want to architect tomorrow.</i> ☁️
-</p>
+[LinkedIn](https://www.linkedin.com/in/almeidaapauloo/) · [Stack Overflow](https://stackoverflow.com/users/33171026/paulo-almeida) · [PIVA Solutions](https://pivasolutions.com.br)
