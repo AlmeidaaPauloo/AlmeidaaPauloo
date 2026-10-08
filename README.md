@@ -3,8 +3,8 @@
 **Full-Stack Developer · React, TypeScript, .NET & APIs**
 São Paulo, Brazil · Open to freelance and remote work
 
-I build web applications, REST APIs and websites, usually with React and TypeScript on the front end and C#/ASP.NET Core with SQL Server on the back end.
-I also build websites, web applications and digital tools through [PIVA Solutions](https://github.com/PIVA-Solutions), with a focus on practical solutions for small businesses.
+I build web applications and REST APIs, usually with React and TypeScript on the front end and C#/ASP.NET Core with SQL Server on the back end.
+Through [PIVA Solutions](https://github.com/PIVA-Solutions), I deliver websites and web tools for small businesses.
 
 ## What I build
 
